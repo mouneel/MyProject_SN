@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="90ef7e1ddb711300213ceb41ca961998" sys_domain="global" table="x_185246_myproject_topics" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 09:25:37</sys_created_on>
+            <sys_id>5cef3ed9dbb11300213ceb41ca9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_185246_myproject_topics" sys_domain="global" view="Default view">90ef7e1ddb711300213ceb41ca961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 09:25:37</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 09:25:37</sys_created_on>
+            <sys_id>dcef3ed9dbb11300213ceb41ca9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_185246_myproject_topics" sys_domain="global" view="Default view">90ef7e1ddb711300213ceb41ca961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 09:25:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>topicdescription</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 09:25:37</sys_created_on>
+            <sys_id>50ef3ed9dbb11300213ceb41ca9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_185246_myproject_topics" sys_domain="global" view="Default view">90ef7e1ddb711300213ceb41ca961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 09:25:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 09:25:37</sys_created_on>
+            <sys_id>d0ef3ed9dbb11300213ceb41ca9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_185246_myproject_topics" sys_domain="global" view="Default view">90ef7e1ddb711300213ceb41ca961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 09:25:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>topicname</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 09:25:37</sys_created_on>
+            <sys_id>54ef3ed9dbb11300213ceb41ca9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_185246_myproject_topics" sys_domain="global" view="Default view">90ef7e1ddb711300213ceb41ca961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 09:25:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 09:25:37</sys_created_on>
+            <sys_id>d4ef3ed9dbb11300213ceb41ca9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_185246_myproject_topics" sys_domain="global" view="Default view">90ef7e1ddb711300213ceb41ca961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 09:25:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 09:25:37</sys_created_on>
+            <sys_id>58ef3ed9dbb11300213ceb41ca9619f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_185246_myproject_topics" sys_domain="global" view="Default view">90ef7e1ddb711300213ceb41ca961998</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 09:25:37</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_185246_myproject_topics</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-30 09:25:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>90ef7e1ddb711300213ceb41ca961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_185246_myproject_topics</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MyProjects" source="x_185246_myproject">30f065a8dbb51300213ceb41ca961944</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyProjects">30f065a8dbb51300213ceb41ca961944</sys_scope>
+            <sys_update_name>sys_ui_section_90ef7e1ddb711300213ceb41ca961998</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-30 09:25:37</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

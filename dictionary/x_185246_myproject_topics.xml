@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Topics" max_length="40" name="x_185246_myproject_topics" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Project" max_length="32" name="project" reference="x_185246_myproject_project" type="reference"/>
+        <element label="TopicDescription" max_length="40" name="topicdescription" type="string"/>
+        <element display="true" label="TopicName" max_length="40" name="topicname" type="string"/>
+        <index name="index">
+            <element name="project"/>
+        </index>
+    </element>
+</database>

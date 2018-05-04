@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Tasks" max_length="40" name="x_185246_myproject_tasks" type="collection">
+        <element label="DaysEffort" max_length="40" name="dayseffort" type="float"/>
+        <element label="DueDate" max_length="40" name="duedate" type="glide_date"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Project" max_length="32" name="project" reference="x_185246_myproject_project" type="reference"/>
+        <element label="Remarks" max_length="40" name="taskdescription" type="string"/>
+        <element display="true" label="TaskSummary" max_length="40" name="taskname" type="string"/>
+        <element label="TaskDetails" max_length="40" name="tasksummary" type="string"/>
+        <element dependent="project" dependent_on_field="project" label="Topic" max_length="32" name="topic" reference="x_185246_myproject_topics" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="project"/>
+        </index>
+        <index name="index2">
+            <element name="topic"/>
+        </index>
+    </element>
+</database>

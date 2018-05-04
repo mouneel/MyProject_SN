@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Activities" max_length="40" name="x_185246_myproject_activities" type="collection">
+        <element label="ActivityDetails" max_length="40" name="activitydetails" type="string"/>
+        <element label="ActivityName" max_length="40" name="activityname" type="string"/>
+        <element label="ActivitySummary" max_length="40" name="activitysummary" type="string"/>
+        <element label="ActivityType" max_length="40" name="activitytype" type="string"/>
+        <element label="AssignedTo" max_length="40" name="assignedto" reference="sys_user" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Project" max_length="32" name="project" reference="x_185246_myproject_project" type="reference"/>
+        <element label="Remarks" max_length="40" name="remarks" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <element label="Task" max_length="32" name="task" reference="x_185246_myproject_tasks" type="reference"/>
+        <element label="Topic" max_length="32" name="topic" reference="x_185246_myproject_topics" type="reference"/>
+        <index name="index">
+            <element name="task"/>
+        </index>
+        <index name="index2">
+            <element name="project"/>
+        </index>
+        <index name="index3">
+            <element name="topic"/>
+        </index>
+    </element>
+</database>

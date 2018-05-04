@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Resources" max_length="40" name="x_185246_myproject_resources" type="collection">
+        <element label="DASID" max_length="7" name="dasid" type="string"/>
+        <element label="ResourceName" max_length="100" name="resourcename" type="string"/>
+    </element>
+</database>
